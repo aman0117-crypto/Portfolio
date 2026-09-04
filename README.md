@@ -73,83 +73,6 @@ The design follows a **dark developer-focused theme with blue accents**, subtle 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎤 VoiceSQL AI
-
-An AI-powered **Voice-to-SQL Query Generator** that converts natural language and voice input into SQL queries and executes them against a database.
-
-**Technologies:**
-
-`React` `Python` `Flask` `PostgreSQL` `Groq API`
-
----
-
-### 🎵 Spotify Clone
-
-A Spotify-inspired music streaming interface developed to practice modern frontend development, responsive UI design, and React.
-
-**Technologies:**
-
-`React` `JavaScript` `CSS` `Vite`
-
----
-
-### 🏦 Bank Management System
-
-A Java-based banking application developed to demonstrate object-oriented programming concepts and database connectivity.
-
-**Technologies:**
-
-`Java` `OOP` `MySQL`
-
----
-
-## 🧠 Technical Skills
-
-| Category | Skills |
-|---|---|
-| **Programming Languages** | Java, Python, JavaScript |
-| **Frontend Development** | React, HTML, CSS, Tailwind CSS, Vite |
-| **Backend Development** | Spring, Spring Boot, Node.js, REST APIs, Flask |
-| **Database & Tools** | PostgreSQL, MySQL, Git, GitHub, VS Code |
-| **AI & Data** | Machine Learning, Gemini AI, NumPy, Pandas, Scikit-learn |
-| **Core Concepts** | Data Structures, Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
-
----
-
-## 🎓 Education
-
-### Master of Computer Applications (MCA)
-**PSIT Kanpur**  
-`2025 – 2027` · Currently Pursuing
-
-### Java Full Stack Development Training
-**JSpiders Gurugram**  
-`2024 – 2025`
-
-### Bachelor of Computer Applications (BCA)
-**CSJMU Kanpur**  
-`2021 – 2024`
-
-### 12th
-**Gyan Mandir Inter College**  
-`2020 – 2021`
-
-### 10th
-**Gyan Mandir Inter College**  
-`2018 – 2019`
-
----
-
-## 📜 Certifications
-
-- 🐍 Python Certification
-- 🤖 Machine Learning Certification
-- ☕ Java Full Stack Development Certification
-
----
-
 ## 📁 Project Structure
 
 ```text
@@ -180,13 +103,13 @@ Portfolio/
 
 ⚙️ Getting Started
 ---
-1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_URL
-2. Navigate to the project
+1. Clone the repository: 
+git clone https://github.com/aman0117-crypto/Portfolio.git
+2. Navigate to the project: 
 cd Portfolio
-3. Install dependencies
+3. Install dependencies:
 npm install
-4. Start the development server
+4. Start the development server:
 npm run dev
 
 The application will be available at:
