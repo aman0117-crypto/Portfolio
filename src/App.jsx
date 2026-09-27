@@ -1707,7 +1707,7 @@ function App() {
 
                 {/* Add certificate URL here later */}
                 <a
-                  href="/public/certificates/python.jpeg"
+                  href="/certificates/python.jpeg"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="certificate-link"
@@ -1842,7 +1842,7 @@ function App() {
 
 
                 <a
-                  href="/public/certificates/ML.jpeg"
+                  href="/certificates/ML.jpeg"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="certificate-link"
@@ -1960,7 +1960,7 @@ function App() {
 
 
                 <a
-                  href="/public/certificates/JavaFSD.jpeg"
+                  href="/certificates/JavaFSD.jpeg"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="certificate-link"
