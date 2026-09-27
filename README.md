@@ -165,34 +165,22 @@ My resume is available directly from the portfolio via the **Resume** button in 
 ```
 public/Resume.pdf
 ```
+##
 
----
+<div align="center">
 
-## 📬 Contact
+### If you find my projects interesting, consider giving them a ⭐.
 
-<p>
-  <a href="mailto:amang954817@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/aman0117-crypto">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/aman_1711">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+### 🚀 Keep Building. Keep Learning. Keep Growing
 
-Feel free to reach out for:
+### Made with ❤️ by <strong>Aman Gupta
 
-- 💼 Software development opportunities
-- 🎓 Internships
-- 🤝 Collaborations
-- 🧩 Projects
-- 💬 Technical discussions
+</div>
 
----
+<div align="center">
 
-<p align="center">Made with ❤️ by <strong>Aman Gupta</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,50:312e81,100:6d28d9&section=footer" width="100%"/>
+
+</div>
+
+
