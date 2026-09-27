@@ -1,4 +1,4 @@
-# 👨‍💻 Aman Gupta 
+<h1 align="center">👨‍💻 Aman Gupta</h1>
 
 <p align="center">
   <strong>Personal Portfolio Website</strong>
@@ -10,15 +10,12 @@
 </p>
 
 <p align="center">
-
-  <a href="YOUR_VERCEL_URL">
+  <a href="https://portfolio-delta-ten-yhiamt1vjs.vercel.app">
     <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/aman0117-crypto/Portfolio">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -35,18 +32,18 @@ The design follows a **dark developer-focused theme with blue accents**, subtle 
 
 ## ✨ Features
 
-- 🎨 Modern dark UI
+- 🎨 Modern dark UI with a glassmorphism, blurred navbar
 - 🔵 Blue accent theme
 - 🌌 Animated background effects
 - 🖱️ Interactive mouse-following background glow
-- 📱 Responsive design
-- 👨‍💻 About Me section
-- 🛠️ Technical Skills section
-- 🚀 Projects showcase
-- 🎓 Education timeline
-- 📜 Certifications section
-- 📩 Contact section
-- 📄 Resume download
+- 📱 Fully responsive — optimized for mobile, tablet & desktop
+- 👨‍💻 About Me section with quick stats & highlights
+- 🛠️ Technical Skills section organized by category
+- 🚀 Projects showcase with tags, links & live previews
+- 🎓 Education timeline with animated vertical progress line
+- 📜 Certifications section with direct certificate links
+- 📩 Contact section with quick links (Gmail, GitHub, LinkedIn, LeetCode)
+- 📄 Resume download button
 - ⚡ Fast development and build process using Vite
 
 ---
@@ -69,6 +66,12 @@ The design follows a **dark developer-focused theme with blue accents**, subtle 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -99,70 +102,97 @@ Portfolio/
 ├── vite.config.js
 └── README.md
 ```
+
 ---
 
-⚙️ Getting Started
----
-1. Clone the repository: 
+## ⚙️ Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- npm (comes with Node.js)
+
+### Installation
+
+```bash
+# 1. Clone the repository
 git clone https://github.com/aman0117-crypto/Portfolio.git
-2. Navigate to the project: 
+
+# 2. Navigate to the project
 cd Portfolio
-3. Install dependencies:
+
+# 3. Install dependencies
 npm install
-4. Start the development server:
+
+# 4. Start the development server
 npm run dev
+```
 
-The application will be available at:
-
-http://localhost:5173
-
----
-🏗️ Production Build
----
-
-Create a production build:
-
-- npm run build
-
-Preview the production build:
-
-- npm run preview
+The application will be available at **http://localhost:5173**
 
 ---
 
-🚀 Deployment
+## 🏗️ Production Build
+
+```bash
+# Create a production build
+npm run build
+
+# Preview the production build locally
+npm run preview
+```
+
 ---
 
-This portfolio is deployed using Vercel.
+## 🚀 Deployment
 
-The project is connected to GitHub, allowing changes to be automatically deployed whenever new commits are pushed to the repository.
+This portfolio is deployed using **Vercel** and connected directly to GitHub — every push to `main` automatically triggers a new production deployment.
 
-1. git add .
-2. git commit -m "Update portfolio"
-3. git push
+```bash
+git add .
+git commit -m "Update portfolio"
+git push
+```
+
+> ⚠️ **Note:** Files inside the `public/` folder are served from the site root.
+> Reference them as `/certificates/file.jpeg`, **not** `/public/certificates/file.jpeg`.
 
 ---
 
-📄 Resume
----
+## 📄 Resume
 
-My resume is available directly from the portfolio through the Resume button.
+My resume is available directly from the portfolio via the **Resume** button in the navbar, and is stored at:
 
-The resume file is stored in:
-
+```
 public/Resume.pdf
+```
 
 ---
 
-📬 Contact
----
+## 📬 Contact
 
-Email: amang954817@gmail.com
+<p>
+  <a href="mailto:amang954817@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aman0117-crypto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aman_1711">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 Feel free to reach out for:
 
-Software development opportunities
-Internships
-Collaborations
-Projects
-Technical discussions
+- 💼 Software development opportunities
+- 🎓 Internships
+- 🤝 Collaborations
+- 🧩 Projects
+- 💬 Technical discussions
+
+---
+
+<p align="center">Made with ❤️ by <strong>Aman Gupta</strong></p>
