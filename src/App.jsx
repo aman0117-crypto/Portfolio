@@ -27,28 +27,28 @@ function App() {
   return (
     <div className={`app ${darkMode ? "dark-mode" : "light-mode"}`}>
        {/* Premium Animated Background */}
-<div className="background-effects">
+        <div className="background-effects">
 
-  {/* Ambient Aurora */}
-  <div className="aurora aurora-1"></div>
-  <div className="aurora aurora-2"></div>
-  <div className="aurora aurora-3"></div>
+          {/* Ambient Aurora */}
+          <div className="aurora aurora-1"></div>
+          <div className="aurora aurora-2"></div>
+          <div className="aurora aurora-3"></div>
 
-  {/* Neural Network */}
-  <div className="neural-network">
-    <span className="node node-1"></span>
-    <span className="node node-2"></span>
-    <span className="node node-3"></span>
-    <span className="node node-4"></span>
-    <span className="node node-5"></span>
-    <span className="node node-6"></span>
+          {/* Neural Network */}
+          <div className="neural-network">
+            <span className="node node-1"></span>
+            <span className="node node-2"></span>
+            <span className="node node-3"></span>
+            <span className="node node-4"></span>
+            <span className="node node-5"></span>
+            <span className="node node-6"></span>
 
-    <span className="connection connection-1"></span>
-    <span className="connection connection-2"></span>
-    <span className="connection connection-3"></span>
-    <span className="connection connection-4"></span>
-    <span className="connection connection-5"></span>
-  </div>
+            <span className="connection connection-1"></span>
+            <span className="connection connection-2"></span>
+            <span className="connection connection-3"></span>
+            <span className="connection connection-4"></span>
+            <span className="connection connection-5"></span>
+          </div>
 
   {/* Floating particles */}
   <div className="ambient-particles">
@@ -104,7 +104,7 @@ function App() {
         <div className="navbar-actions">
           {/* RESUME */}
           <a
-            href="/Resume.pdf"
+            href="/Aman_Gupta_Resume.docx"
             download
             className="resume-button"
           >
@@ -182,11 +182,7 @@ function App() {
                   <span className="green">"MCA"</span>,
                 </p>
 
-                <p className="indent">
-                  <span className="cyan">currently building:</span>{" "}
-                  <span className="green">"VoiceSQL AI"</span>,
-                </p>
-
+              
                 <p className="indent">
                   <span className="cyan">coding:</span>{" "}
                   <span className="orange">Daily Leetcode practice</span>,
@@ -968,7 +964,7 @@ function App() {
                     </span>
 
                     <span className="skill-item">
-                      Oracle SQL
+                      Oracle
                     </span>
 
                     <span className="skill-item">
@@ -1066,7 +1062,7 @@ function App() {
                     </span>
 
                     <span className="skill-item">
-                      Groq API
+                      NLP/LLM
                     </span>
 
                     <span className="skill-item">
@@ -1126,15 +1122,11 @@ function App() {
                   <div className="skills-list">
 
                     <span className="skill-item">
-                      Data Structures
+                      DSA
                     </span>
 
                     <span className="skill-item">
-                      Algorithms
-                    </span>
-
-                    <span className="skill-item">
-                      OOP
+                      OOPs
                     </span>
 
                     <span className="skill-item">
